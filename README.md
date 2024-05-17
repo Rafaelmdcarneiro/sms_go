@@ -1,5 +1,3 @@
-[![Build Status](https://drone.io/github.com/remogatto/sms/status.png)](https://drone.io/github.com/remogatto/sms/latest)
-
 # SMS - A concurrent Sega Master System emulator
 
 SMS is a free and open-source (MIT licensed) Sega Master System emulator written in
